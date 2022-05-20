@@ -1,17 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.6dcd0586.css",
-    "main.js": "/static/js/main.ddf14db8.js",
-    "static/js/787.5539758e.chunk.js": "/static/js/787.5539758e.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.15b8d859896d20a6aa864b2f8a47e50e.svg",
-    "static/media/graph.svg": "/static/media/graph.6efb7d904e9b6fff12eabb22d108f3b8.svg",
+    "main.css": "/static/css/main.379eb04b.css",
+    "main.js": "/static/js/main.2189607c.js",
+    "static/js/787.9f7140fa.chunk.js": "/static/js/787.9f7140fa.chunk.js",
+    "static/media/hero.png": "/static/media/hero.e821acfb40765137eb4d.png",
+    "static/media/Collier-Book.otf": "/static/media/Collier-Book.6e1ab60a664694164ca3.otf",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/aprende_logo.webp": "/static/media/aprende_logo.80cdf04a3b89c83ad59c.webp",
+    "static/media/ico_social_instagram.svg": "/static/media/ico_social_instagram.eeff7c4c600449122b2a43997e9c638e.svg",
+    "static/media/ico_social_facebook.svg": "/static/media/ico_social_facebook.7761ce835f70d8a997ddc456784fc243.svg",
+    "static/media/ico_social_linkedin.svg": "/static/media/ico_social_linkedin.4ec208f4ced25bfae5d70beae018602a.svg",
     "index.html": "/index.html",
-    "main.6dcd0586.css.map": "/static/css/main.6dcd0586.css.map",
-    "main.ddf14db8.js.map": "/static/js/main.ddf14db8.js.map",
-    "787.5539758e.chunk.js.map": "/static/js/787.5539758e.chunk.js.map"
+    "static/media/ico_social_tiktok.svg": "/static/media/ico_social_tiktok.bd0dbb3888999cc8fcfea6d32ad5fc08.svg",
+    "main.379eb04b.css.map": "/static/css/main.379eb04b.css.map",
+    "main.2189607c.js.map": "/static/js/main.2189607c.js.map",
+    "787.9f7140fa.chunk.js.map": "/static/js/787.9f7140fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6dcd0586.css",
-    "static/js/main.ddf14db8.js"
+    "static/css/main.379eb04b.css",
+    "static/js/main.2189607c.js"
   ]
 }
